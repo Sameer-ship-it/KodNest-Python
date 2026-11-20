@@ -1,4 +1,4 @@
-percentage = 72
+percentage = 61
 active_backlog = 0
 
 if percentage > 60 and active_backlog == 0:
